@@ -1,0 +1,9 @@
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\bin\Debug\PPE_C-Sharp_BLL.dll
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\bin\Debug\PPE_C-Sharp_BLL.pdb
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\bin\Debug\PPE_C-Sharp_DAL.dll
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\bin\Debug\PPE_C-Sharp_DAL.pdb
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\obj\Debug\PPE_C-Sharp_BLL.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\obj\Debug\PPE_C-Sharp_BLL.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\obj\Debug\PPE_C-Sharp_BLL.csproj.CopyComplete
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\obj\Debug\PPE_C-Sharp_BLL.dll
+C:\Users\maxim\source\repos\PPE C-Sharp\PPE_C-Sharp_BLL\obj\Debug\PPE_C-Sharp_BLL.pdb
